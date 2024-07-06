@@ -1,0 +1,19 @@
+.members-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .member {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    text-align: left;
+  }
+  

@@ -1,0 +1,23 @@
+.movies-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .movies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .movie {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    text-align: left;
+  }
+  
+  .movie img {
+    max-width: 100%;
+  }
+  
